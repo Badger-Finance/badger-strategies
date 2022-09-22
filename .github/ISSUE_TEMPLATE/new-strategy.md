@@ -29,6 +29,9 @@ This document evaluates the protocols that are interacted with as strategy posit
 
 ## Test Checks (screen shot of all test passing)
 
+## Check Contract Delegation Tool (Only after wireup, before Beta)
+https://github.com/Badger-Finance/badger-vaults-mix-v1.5/blob/main/scripts/7_single_vault_proxy_check.py
+
 
 ## Launch Checklist
 - [ ] Strategy development - Strategist
